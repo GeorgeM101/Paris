@@ -1,0 +1,145 @@
+
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.navbar{
+}
+.items{
+    
+}
+.logo{
+    width:500px; 
+    height:70px;
+    
+}
+.input{
+    position: relative;
+    font-weight: bold;
+    width:250px;
+    padding:10px;
+    height:30px;
+    top:-30px;
+    border:2px solid #DCDFE4;
+    outline: none;
+}
+
+#search{
+    position: relative;
+    height:25px;
+    align-items: center;
+    top:-22px;
+    padding:10px;
+    left:-40px;
+    background-color: #0474EB;
+}
+.icons{
+    position:relative;
+    top:-50px;
+    left:600px;
+}
+
+.icons ul{
+    display:inline-flex;
+    list-style: none;
+
+}
+.icons ul li{
+    width:100px;
+    text-decoration: none;
+
+}
+#btn{
+    background-color: hsl(211, 97%, 47%);
+    position:relative;
+    top:-20px;
+    border:2px solid;
+    font-size:1.0em;
+    border-radius:5rem;
+    color:white;
+    outline:0;
+    padding:10px;
+    
+}
+.section1{
+    background-image: url(/images/eiffel.jpg);
+    background-size: cover;
+    width:100%;
+    height:620px;
+    transform: scale(1.0);
+    opacity: 0.9;
+  
+}
+
+.graph{
+    /* box-shadow:100px 200px 500px 100px rgb(0,0,0); */
+    position: relative;
+    color:white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.875rem;
+    line-height: 32px;
+    margin-bottom: 8px;
+    text-shadow: white;
+
+}
+.headings{
+    position:relative;
+    width:500px;
+    top:150px;
+    left:30px;
+}
+
+.text{
+    color:white;
+    font-size:30px;
+    font-size:bold;
+}
+   
+.checkbox{
+    background-color: #1A2B49;
+    width:700px;
+    height:130px;
+    position: relative;
+    top:200px;
+    left:50px;
+    color:white;
+    padding:30px;
+}
+.entry{
+    justify-content:space-between ;
+}
+#input{
+    border: none;
+    color: black;
+    font-size: 1rem;
+    font-weight: 400;
+    height: 30px;
+    line-height: 1.375rem;
+    padding: 12px;
+    width: 177px;
+}
+#bttn{
+    background-color: hsl(211, 97%, 47%);
+    position:relative;
+    width:200px;
+    font-weight: bold;
+    top:-50px;
+    left:450px;
+    border:none;
+    font-size:1.0em;
+    border-radius:5rem;
+    color:white;
+    outline:0;
+    padding:10px;
+}
+.black{
+    border:none;
+    background-color: black;
+    width:400px;
+    height:500px;
+    position: absolute;
+    opacity:0.7;
+}
