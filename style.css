@@ -143,3 +143,14 @@
     position: absolute;
     opacity:0.7;
 }
+
+.activities{
+    display: flex;
+    margin:20px;
+    border:1px blue;
+
+}
+.btn1{
+    width:100px;
+    text-align: left;
+}
