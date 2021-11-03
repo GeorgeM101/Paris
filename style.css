@@ -5,6 +5,7 @@
     padding:0px;
     box-sizing: border-box;
 }
+
 .navbar{
 }
 .items{
@@ -153,4 +154,9 @@
 .btn1{
     width:100px;
     text-align: left;
+}
+@media (min-width:480px){
+    p{
+        color:green;
+    }
 }
